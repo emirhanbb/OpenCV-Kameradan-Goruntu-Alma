@@ -14,7 +14,7 @@ if bloğu kısmında **cv2.waitKey(50)** yaparak while göngüsünün 50milisani
 
 **cv2.destroyAllWindows():** bütüm opencv pencerelerini kapatmak için.
 
-## Kurulum
+## 🔧  Kurulum
 
 OpenCV'yi projenize dahil etmeniz gerekiyor.
 
